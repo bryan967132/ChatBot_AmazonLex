@@ -1,0 +1,16 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mysql2": "^3.14.0"
+  }
+}
